@@ -2,6 +2,7 @@
 
 # Setup
   - Replace **WEBHOOK_URL** with your Discord Webhook URL
+  - To finish the setup, right click **.replit** and click **Delete**
   - To run the webhook spammer after putting your webhook url in, simply click **RUN**
 
 # Legality and Punishment
