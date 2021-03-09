@@ -10,4 +10,4 @@ def spam():
 
 while True:
   spam()
-  time.sleep(1) ## replace 1 with number of seconds you want to wait
+  time.sleep(1) ## replace 1 with number of seconds you want per post (keep 1 as default due to being rate limited)
