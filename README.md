@@ -11,4 +11,4 @@ This tool here has been made for educational purposes. I do not promote the usag
 
 
 
-[![Run on Repl.it](https://repl.it/github/tthomxs/Discord-Webhook-Spammer)](https://repl.it/github/tthomxs/Discord-Webhook-Spammer)
+[![Run on Repl.it](https://replit.com/github/tthomxs/Discord.py-Webhook-Spammer)](https://replit.com/github/tthomxs/Discord.py-Webhook-Spammer)
