@@ -1,4 +1,4 @@
-# Discord Webhook Spammer V2
+# Discord.py Webhook Spammer V2
 
 # Setup
   - Replace **WEBHOOK_URL** with your Discord Webhook URL
